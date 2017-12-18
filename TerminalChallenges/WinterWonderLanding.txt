@@ -1,0 +1,4 @@
+1. cd /
+2. ls -lR | grep elftalkd -r 2>/dev/null
+3. cd /run/elftalk/bin/
+4. ./elftalkd
